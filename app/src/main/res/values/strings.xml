@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="message">Message</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="communicate">Communicate</string>
+    <string name="avijit_samanta">Avijit Samanta</string>
+    <string name="samantaavijit_2000_gmail_com">samantaavijit.2000@gmail.com</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
